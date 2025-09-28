@@ -1,0 +1,8 @@
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejercicio3\obj\Debug\Ejercicio3.exe.config

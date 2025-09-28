@@ -1,0 +1,8 @@
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\bin\Debug\Ejemplo1.4.exe.config
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\bin\Debug\Ejemplo1.4.exe
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\bin\Debug\Ejemplo1.4.pdb
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\obj\Debug\Ejemplo1.4.csproj.AssemblyReference.cache
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\obj\Debug\Ejemplo1.4.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\obj\Debug\Ejemplo1.4.exe
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\obj\Debug\Ejemplo1.4.pdb
+C:\PROYECTOS\Sem2_Ejemplos\Sem2_Ejemplos\Ejemplo1.4\obj\Debug\Ejemplo1.4.exe.config

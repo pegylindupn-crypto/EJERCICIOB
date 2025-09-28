@@ -1,0 +1,7 @@
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Curso regular UPN 2 - Jaime Lopez\FUNDAMENTOS DE ALGORITMOS - 4514 (Presencial)\Semana 2\Ejemplos\Ejemplo1.1\Ejercicio1\obj\Debug\Ejercicio1.pdb
