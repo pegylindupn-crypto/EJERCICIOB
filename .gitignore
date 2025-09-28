@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Sem2_Ejemplos/.vs
+/Sem2_Ejemplos/Ejemplo1.1/.vs
+/Sem2_Ejemplos/Ejemplo1.2/.vs
+/Sem2_Ejemplos/Ejemplo1.3/.vs
+/Sem2_Ejemplos/Ejercicio1/.vs
+/Sem2_Ejemplos/Ejercicio2/.vs
